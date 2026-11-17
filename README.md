@@ -19,11 +19,28 @@ Html5
 
 ### Setup Instructions
 
+- Open gitbash
+- Change directory to Desktop
+ ```bash 
+ cd Desktop/
+
+ ```
+- Clone the project from Github
+
 ```bash
 git clone  https://ogwenoirene.github.io/Safi-Wash-Fold
-
-# open in vs code
-code .
-
-in vs code,right-click ' index.html' and choose ** open with live server**
 ```
+- Change directory to `Safi-Wash-Fold` project
+
+ ```bash 
+ cd Safi-Wash-Fold/
+
+ ```
+- Open in vs code
+
+```bash 
+code .
+```
+- Once in vscode,right-click  on `index.html`  file and choose ***Open with Live Server***
+
+### Business Rationale
