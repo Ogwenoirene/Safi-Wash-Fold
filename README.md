@@ -44,3 +44,9 @@ code .
 - Once in vscode,right-click  on `index.html`  file and choose ***Open with Live Server***
 
 ### Business Rationale
+The Safi Wash and Fold website was designed to give customers an easy and convenient way to access laundry services. The website uses a clean, modern, and user-friendly layout to help customers find information quickly.
+- Easy navigation: Helps customers find services and contact information easily.
+- Service descriptions: Helps customers understand the laundry services offered.
+- Contact section: Makes it easier for customers to reach the business and make enquiries.
+- Responsive design: Allows customers to access the website using phones, tablets, and computers.
+- Overall goal: To increase customer awareness, attract more customers, build trust, and grow Safi Wash and Fold's business.
